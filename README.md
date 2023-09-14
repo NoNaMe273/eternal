@@ -1,5 +1,5 @@
 # eternal
-eternal bombere in phone
+eternal bomber for phone
 libraries used:
 flet==0.9.0
 aiohttp==3.8.4
